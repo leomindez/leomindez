@@ -4,7 +4,7 @@
 Hi, I'm Leo (he/him)—a senior software engineer at Creditas working on [Payroll Loan Product](https://www.creditas.com/mx/prestamo/nomina) to help people to fullfil their dreams!.<br>I have been developing software for 7 years, I am good at developing mobile applications and microservices by using different technologies/languages/platforms.<br> **I love computer science** that is why I am constantly learning new languages, foundation topics and platforms. 
 
 ## Latest reading
-🔪 [Design Data-Intensive Applications](learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+🔪 [Design Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 
 ## My values
 💖 Honest and trust<br>
