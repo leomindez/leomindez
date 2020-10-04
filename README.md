@@ -1,4 +1,4 @@
-<img align="right" src="" alt="The image was created by twilio SIGNAL Event Tool" width=350px height=465px/>
+<img align="right" src="https://github.com/leomindez/leomindez/blob/main/cartoon-myself.jpeg" alt="The image was created by twilio SIGNAL Event Tool" width=450px height=465px/>
 
 # Hi friends 👋!
 Hi, I'm Leo (he/him)—a senior software engineer at Creditas working on [Payroll Loan Product](https://www.creditas.com/mx/prestamo/nomina) to help people to fullfil their dreams!.<br>I have been developing software for 7 years, I am good at developing mobile applications and microservices with different technologies. **I love computer science** that is why I am constantly learning new languages, foundation topics and platforms. 
@@ -25,3 +25,4 @@ Be honest with myself and my workmates to release amazing products for our users
 ### Inspiration 
 [Get In Touch](github.com/terrytangyuan/terrytangyuan)<br>
 [Readme](https://github.com/katmeister/katmeister)
+
