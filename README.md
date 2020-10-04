@@ -23,6 +23,6 @@ Be honest with myself and my workmates to release amazing products for our users
 </p>
 
 ### Inspiration 
-[Get In Touch](github.com/terrytangyuan/terrytangyuan)<br>
+[Get In Touch](https://github.com/terrytangyuan/terrytangyuan)<br>
 [Readme](https://github.com/katmeister/katmeister)
 
