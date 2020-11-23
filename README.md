@@ -12,7 +12,7 @@ Hi, I'm Leo (he/him)—a senior software engineer at Creditas working on [Payrol
 🚀 Passion
 
 ## How I work
-My motivations are to create good atmosphere at work by trying to stay motivated and helping my workmates to grow personally and professionaly.  
+My motivations are to create good atmosphere at work by trying to stay motivated and helping my workmates to grow personally and professionally.  
 Be honest with myself and my workmates to release amazing products for our users while we are enjoying the process 🤓. 
 
 ## Get in touch
