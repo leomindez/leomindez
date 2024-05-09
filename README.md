@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/leomindez/leomindez/blob/main/cartoon-myself.jpeg" alt="The image was created by twilio SIGNAL Event Tool" width=350px height=365px/>
 
 # Hi friends 👋!
-Hi, I'm Leo (he/him)—a senior software engineer working at Microsoft!.<br>I have been developing software for 8 years, I am good at developing mobile applications and microservices by using different technologies/languages/platforms.<br> **I love computer science** that is why I am constantly learning new languages, foundation topics and platforms. 
+Hi, I'm Leo (he/him)—a senior software engineer.<br>I have been developing software for 8 years, I am good at developing mobile applications and microservices by using different technologies/languages/platforms.<br> **I love computer science** that is why I am constantly learning new languages, foundation topics and platforms. 
 
 ## Latest reading
 🔪 [Web Application Security](https://learning.oreilly.com/library/view/web-application-security/9781492053101/)
